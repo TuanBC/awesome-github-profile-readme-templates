@@ -315,6 +315,7 @@
     - [PluckyPrecious](/templates/PluckyPrecious.md)
     - [pmbechard](/templates/pmbechard.md)
     - [pr2tik1](/templates/pr2tik1.md)
+    - [PranavArya37](/templates/PranavArya37.md)
     - [pranshu05](/templates/pranshu05.md)
     - [prathimacode-hub](/templates/prathimacode-hub.md)
     - [prathmesh16](/templates/prathmesh16.md)
