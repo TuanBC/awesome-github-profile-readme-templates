@@ -71,6 +71,7 @@
     - [ashleymavericks](/templates/ashleymavericks.md)
     - [ashrafkm](/templates/ashrafkm.md)
     - [ASovindu](/templates/ASovindu.md)
+    - [Aurorp1g](/templates/Aurorp1g.md)
     - [aveek-saha](/templates/aveek-saha.md)
     - [Austinae](/templates/Austinae.md)
     - [AvidCoder101](/templates/AvidCoder101.md)
