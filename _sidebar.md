@@ -340,6 +340,7 @@
     - [ridermansb](/templates/ridermansb.md)
     - [rishabh7795](/templates/rishabh7795.md)
     - [Rishit-dagli](/templates/Rishit-dagli.md)
+    - [RoberthBazan](/templates/RoberthBazan.md)
     - [rock12231](/templates/rock12231.md)
     - [roshanlam](/templates/roshanlam.md)
     - [ruthrootz](/templates/ruthrootz.md)
