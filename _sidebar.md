@@ -284,6 +284,7 @@
     - [mubin-khalid](/templates/mubin-khalid.md)
     - [Mo-Alsehli](/templates/Mo-Alsehli.md)
     - [mr-mib](/templates/mr-mib.md)
+    - [megha-ranjith](/templates/megha-ranjith.md)
   - N
     - [naisofly](/templates/naisofly.md)
     - [nasreekar](/templates/nasreekar.md)
