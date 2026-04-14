@@ -426,6 +426,7 @@
     - [VatanAgnihotri](/templates/VatanAgnihotri.md)
     - [vanzasetia](/templates/vanzasetia.md)
     - [VatanaChhorn](/templates/VatanaChhorn.md)
+    - [vedangdhuri](/templates/vedangdhuri.md)
     - [vimalverma558](/templates/vimalverma558.md)
     - [VinayakBector2002](/templates/VinayakBector2002.md)
     - [viralbhadeshiya](/templates/viralbhadeshiya.md)
